@@ -25,6 +25,11 @@ let cats = [{
   image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbjDvVH1vu-2RCWoAb5ndnL-qjMuvGBF26w&s",
   age:11,
   name: "Atomic Toaster"
+},
+{
+  image_url: "https://i.makeagif.com/media/4-04-2018/03_2ZZ.gif",
+  age: 108,
+  name: "Bento"
 }
 ];
 
